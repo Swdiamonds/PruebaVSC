@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Tarea 2;JavaScript</title>
+      <link rel="stylesheet" href="archivo_css.css">
+   </head>
+    
+   <body> 
+      <h1>Tarea 2.JavaScript</h1>
+      <h2> Crea 20 botones con las funcionalidades que se especifican.<br>
+      </h2>
+      
+      <button type="button" id="boton1" class="boton"> Boton;1 </button>
+      <button type="button" id="boton2" class="boton"> Boton;2 </button>
+      <button type="button" id="boton3" class="boton"> Boton;3 </button>
+      <button type="button" id="boton4" class="boton"> Boton;4 </button>
+      <button type="button" id="boton5" class="boton"> Boton;5 </button>
+      <button type="button" id="boton6" class="boton"> Boton;6 </button>
+      <button type="button" id="boton7" class="boton"> Boton;7 </button>
+      <button type="button" id="boton8" class="boton"> Boton;8 </button>
+      <button type="button" id="boton9" class="boton"> Boton;9 </button>
+      <button type="button" id="boton10"class="boton"> Boton;10 </button>
+      <button type="button" id="boton11"class="boton"> Boton;11 </button>
+      <button type="button" id="boton12"class="boton"> Boton;12 </button>
+      <button type="button" id="boton13"class="boton"> Boton;13 </button>
+      <button type="button" id="boton14"class="boton"> Boton;14 </button>
+      <button type="button" id="boton15"class="boton"> Boton;15* </button>
+      <button type="button" id="boton16"class="boton"> Boton;16* </button>
+      <button type="button" id="boton17"class="boton"> Boton;17 </button>
+      <button type="button" id="boton18"class="boton"> Boton;18 </button>
+      <button type="button" id="boton19"class="boton"> Boton;19 </button>
+      <button type="button" id="Bonus"class="boton"> Bonus </button>
+      <div id="cuadrado"></div>
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+      <script src="main.js">  </script>  
+    
+   </body> 
+
+
+
+
+
+</html> 

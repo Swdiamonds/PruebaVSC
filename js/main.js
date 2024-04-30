@@ -1,6 +1,7 @@
 //1Modificacion
 //Modificacion Rama1
 //Modificacion Rama2.
+//Modificacion para git.
 document.getElementById('boton1').onclick = function(){ /*Crea un botón que muestre la resta de dos variables y su multiplicación en un alert y después otro
     mensaje de alerta con su división.*/
 
